@@ -24,3 +24,7 @@ student2 = Student("Alex", "Johnson", "5545")
 
 print(student1.first_name)
 print(student2.student_id)
+
+
+print(student1.getFullname)
+print(student2.getbalance)
